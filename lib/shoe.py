@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/envs python3
 
 class Shoe:
     """Represents a shoe with a brand and size."""
